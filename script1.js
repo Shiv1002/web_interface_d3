@@ -11,7 +11,7 @@ const salesData = [
 
 // Set the dimensions of the chart
 const width = 500;
-const height = 300;
+const height = 500;
 
 // Create an SVG element
 const svg = d3.select("#graph1-container")
