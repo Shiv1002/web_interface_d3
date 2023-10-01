@@ -2,9 +2,11 @@
 // Example pie chart using D3.js
 
 const salesData = [
-    { region: "Region A", sales: 25000 },
-    { region: "Region B", sales: 35000 },
-    { region: "Region C", sales: 42000 },
+        {"region": "Canada", "sales":2496006},
+    {"region": "France", "sales":2432150},
+    {"region": "Germany", "sales":2346560},
+    {"region": "Mexico", "sales":2094935},
+    {"region": "United States of America", "sales":2502983}  
 ];
 
 // Set the dimensions of the chart
