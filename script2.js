@@ -3,12 +3,6 @@
 
 // Sample sales data (replace with your actual data)
 console.log('2 started')
-const salesData = [
-    { region: "Region A", sales: 25000 },
-    { region: "Region B", sales: 35000 },
-    { region: "Region C", sales: 42000 },
-    // Add more data points as needed
-];
 
 // Set the dimensions of the chart
 const width = 500;
