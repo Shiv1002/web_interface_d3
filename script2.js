@@ -4,9 +4,6 @@
 // Sample sales data (replace with your actual data)
 console.log('2 started')
 
-// Set the dimensions of the chart
-const width = 500;
-const height = 300;
 const radius = Math.min(width, height) / 2;
 
 // Create an SVG element
