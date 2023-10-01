@@ -1,6 +1,6 @@
 // script1.js
 // Example bar chart using D3.js
-
+console.log('1 started')
 const salesData = [
     {"region": "Canada", "sales":2496006},
     {"region": "France", "sales":2432150},
